@@ -23,11 +23,3 @@ This project showcases beautiful plant collections, clean UI design, and smooth 
 
 ---
 
-## ⚙️ Project Setup
-
-If you want to build or modify this project locally:
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/plant-website.git
-cd ONELIFE
