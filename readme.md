@@ -23,3 +23,6 @@ This project showcases beautiful plant collections, clean UI design, and smooth 
 
 ---
 
+**[View Live Demo on Netlify 🚀](https://botaniva.netlify.app/)**
+
+
